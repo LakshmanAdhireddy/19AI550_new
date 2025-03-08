@@ -1,6 +1,6 @@
 # Ex.No: 3  Implementation of Kinematic movement -seek behavior in Unity
 ### DATE:                                                                            
-### REGISTER NUMBER : 
+### REGISTER NUMBER : 212222240001
 ### AIM: 
 To write a program to simulate the process of seek behavior in Unity 
 ### Algorithm:
@@ -53,13 +53,9 @@ public class Script : MonoBehaviour
 ```
 ### Output:
 
+![image](https://github.com/user-attachments/assets/ce1562b2-c1df-4bd8-b4f7-6e0d1ee43f05)
 
-
-
-
-
-
-
+![image](https://github.com/user-attachments/assets/9eee6da6-2469-4660-bd74-abed5af3dc3c)
 
 ### Result:
 Thus the simple seek behavior was implemented successfully.
